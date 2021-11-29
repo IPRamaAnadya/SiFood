@@ -1,4 +1,4 @@
-package com.dicoding.sifood
+package com.capstone.sifood
 
 import org.junit.Test
 

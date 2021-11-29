@@ -1,4 +1,4 @@
-package com.dicoding.sifood
+package com.capstone.sifood
 
 import android.content.Intent
 import android.os.Bundle

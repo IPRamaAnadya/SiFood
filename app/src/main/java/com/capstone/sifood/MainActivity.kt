@@ -1,4 +1,4 @@
-package com.dicoding.sifood
+package com.capstone.sifood
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -7,7 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import com.dicoding.sifood.databinding.ActivityMainBinding
+import com.capstone.sifood.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
