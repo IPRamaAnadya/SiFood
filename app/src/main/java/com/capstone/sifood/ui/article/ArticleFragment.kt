@@ -23,7 +23,6 @@ class ArticleFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        requireActivity().actionBar?.title = "Article"
         dashboardViewModel =
             ViewModelProvider(this)[ArticleViewModel::class.java]
 
